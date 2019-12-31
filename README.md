@@ -11,5 +11,5 @@ python ./main.py
 type a~z to play piano! (or make noise)
 
 ### notice
-use global hot key **<ctrl> + <alt> + h**  to exit (you will need that :) )
+use global hot key **ctrl + alt + h**  to exit (you will need that :) )
 
